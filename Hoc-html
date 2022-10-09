@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>KHOI DAU MOI</title>
+    </head>
+    <body>
+        <h1 style="color:red;">Bai Dau Tien</h1>
+        <p title="Vi con em chung ta">Khoi dau voi nhung ham dau tien</p>
+        <p>Ham "h" giup chung ta moi dau cau chuyen</p>
+        <p>Ham "p" giup chung ta hien thi noi dung can truyen dat</p>
+        <p>De chia se link ta co ham "a" va thuoc tinh "href"</p>
+        <p>cung thu chia se nhe
+            <a href="https://www.youtube.com/watch?v=cGI19IZh_5w&list=RDcGI19IZh_5w&start_radio=1">
+                Nghe nhac hay vao day nhe</a><br>
+        </p>
+        <p>Con chia se hinh anh chung ta co ham "img" va thuoc tinh "scr", "alt" <br>
+            <img src="img/Si.jpg" alt="My love" width="160" height="120">
+        </p>
+        <p>Thuoc tinh phong cach thi chung ta co thuoc tinh style="color:
+            <p style="color:blue;">mau muon dung;"</p></p>
+    </body>
+</html>
